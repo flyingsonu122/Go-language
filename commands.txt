@@ -1,3 +1,4 @@
+$ go version
 $ mkdir hello_Go
 $ cd .\hello_Go\
 $ notepad hello.go
